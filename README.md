@@ -1,7 +1,5 @@
 # Computer-Science-Labs
 
-Each has an explanation.
-
 [Basics](https://github.com/doubleterr/Computer-Science-Labs/tree/master/Basics)
 
 [For Loop Labs](https://github.com/doubleterr/Computer-Science-Labs/tree/master/For-loop-labs)
